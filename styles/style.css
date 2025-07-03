@@ -116,6 +116,10 @@ textarea {
     margin: 15px 0;
 }
 
+.limit--style{
+    color: red;
+}
+
 @media (max-width: 1150px) {
     .container {
         width: 85vw;
